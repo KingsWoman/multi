@@ -2,19 +2,19 @@
 # IO-bound
 ## Время работы оригинального скрипта
 
-![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%20original.png?raw=true)
+![](https://github.com/KingsWoman/multi/blob/main/io-bound%20original.png?raw=true)
 
 
 ## Время работы с пятью потоками
-![](io-bound 5.png)
+![](https://github.com/KingsWoman/multi/blob/main/io-bound%205.png?raw=true)
 
 
 ## Время работы с десятью потоками
-![](io-bound 10.png)
+![](https://github.com/KingsWoman/multi/blob/main/io-bound%2010.png?raw=true)
 
 
 ## Время работы со ста потоками
-![](io-bound 100.png)
+![](https://github.com/KingsWoman/multi/blob/main/io-bound%20100.png?raw=true)
 
 
 ## Выводы
@@ -26,27 +26,27 @@
 
 
 ## Время работы оригинального скрипта
-![](cpu-bound original.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%20original.png?raw=true)
 Нагрузка на ЦПУ - 30%
 ---
 ## Время работы в два процесса
-![](cpu-bound 2.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%202.png?raw=true)
 Нагрузка на ЦПУ - 60%
 ---
 ## Время работы в четыре процесса
-![](cpu-bound 4.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%204.png?raw=true)
 Нагрузка на ЦПУ - 100%
 ---
 ## Время работы в пять процессов
-![](cpu-bound 5.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%205.png?raw=true)
 Нагрузка на ЦПУ - 100%
 ---
 ## Время работы в десять процессов
-![](cpu-bound 10.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%2010.png?raw=true)
 Нагрузка на ЦПУ - 100%
 ---
 ## Время работы в шестьдесят процессов
-![](/cpu-bound 60.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%2060.png?raw=true)
 Нагрузка на ЦПУ - 100%
 ---
 ## Выводы

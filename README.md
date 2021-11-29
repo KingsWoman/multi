@@ -2,7 +2,7 @@
 # IO-bound
 ## Время работы оригинального скрипта
 
-![Screenshot](io-bound original.png)
+![](https://github.com/KingsWoman/multi/blob/main/cpu-bound%20original.png?raw=true
 
 
 ## Время работы с пятью потоками

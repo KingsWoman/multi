@@ -1,7 +1,8 @@
 # multi
 # IO-bound
 ## Время работы оригинального скрипта
-![](io-bound original.png)
+
+![Screenshot](io-bound original.png)
 
 
 ## Время работы с пятью потоками
